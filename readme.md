@@ -5,7 +5,7 @@
 ### 1. 安装 stow
 ```bash
 sudo apt install  -y
-
+```
 
 ### 2. 安装 abseil-cpp
 ```bash
