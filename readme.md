@@ -4,7 +4,7 @@
 
 ### 1. 安装 stow
 ```bash
-sudo apt install  -y
+sudo apt install -y stow ninja-build
 ```
 
 ### 2. 安装 abseil-cpp
